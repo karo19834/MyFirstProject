@@ -8,8 +8,10 @@ public class LivingRoom {
         boolean hasTv = false;
         boolean hasCouch = true;
         int windows = 5;
-        System.out.println("Mein Wohnzimmer hat " + squareMeters + " quadrat Meter, und " + windows + " Fenster. Er hat einen TV- " +
+        System.out.println("Mein Wohnzimmer hat " + squareMeters + " Quadratmeter, und " + windows + " Fenster. Er hat einen TV- " +
                 hasTv + ". Und einen Couch- " + hasCouch+".");
+
+
 
 
 
