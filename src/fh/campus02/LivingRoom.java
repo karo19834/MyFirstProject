@@ -11,7 +11,7 @@ public class LivingRoom {
         System.out.println("Mein Wohnzimmer hat " + squareMeters + " quadrat Meter, und " + windows + " Fenster. Er hat einen TV- " +
                 hasTv + ". Und einen Couch- " + hasCouch+".");
 
-        
+
 
     }
 }
